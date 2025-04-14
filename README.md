@@ -1,10 +1,11 @@
 # Complete the following tasks and submit a Pull Request
+
 <details open>
 <summary><h3>1. Add your details: </h3></summary>
 <ul>
   <li> Name: Jayanth</li>
   <li> Roll Number: 160122771</li>
-  <li> Branch: </li>
+  <li> Branch: AI&DS</li>
 </ul>
 </details>
 <details>
